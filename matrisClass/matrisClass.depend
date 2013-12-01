@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1383764581 source:/home/gizem/Documents/MyCppCodes/matrisClass/main.cpp
+	<iostream>
+	<fstream>
+	"matris.h"
+
+1383762779 /home/gizem/Documents/MyCppCodes/matrisClass/matris.h
+	<iostream>
+
